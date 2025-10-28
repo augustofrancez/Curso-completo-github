@@ -9,3 +9,5 @@ Pratice task from Udemy Course - Willian
 Magno V Gomes.
 
 Every challenge, a chance for a fresh start!!
+
+The version of this repository is v1.0
