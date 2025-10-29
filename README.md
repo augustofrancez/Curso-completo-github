@@ -1,4 +1,4 @@
- Curso-completo-github
+Curso-completo-github
 
 This is a course about Git and GitHub.
 
@@ -11,3 +11,5 @@ Magno V Gomes.
 Every challenge, a chance for a fresh start!!
 
 The version of this repository is v1.0
+
+Correção de erro v1.1
